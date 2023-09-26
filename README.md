@@ -1,8 +1,8 @@
-I have been working as a software developer for 3 years and I am always looking to learn new technologies and adapt myself to whatever is necessary for the team or for the development of the project, in the last year I had the opportunity to work as a developer in a big tech (Dell) where I learned many things that completely changed how I saw software development, I am passionate about this area and I am currently looking for new opportunities!
+I’m a software developer for 6 years, I have experience with Fullstack Web development and ERP systems development. I worked on several projects for large companies in the technology sector, having experience in planning, developing and maintaining applications. I have knowledge and experience with C# (.Net), Python (Django, flask), Java (Spring) using them in the development of MVC applications and microservices, implementing unit tests (xUnit and JUnit) and front-end frameworks (Vue.js).
 
 All my professional Info are on my LinkedIn in the end of this README, feel free to take a look!
 
-Most of the codes you will see here scripts that i use to automate boring stuff.
+Most of the codes you will see here scripts that i use to automate boring stuff or for academic purposes, all of my professional work were on private repositories.
 ```See ya!```
 
 Email: joaohenriquemuniz@gmail.com
