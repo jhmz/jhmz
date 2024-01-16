@@ -1,8 +1,9 @@
-I’m a software developer for 6 years, I have experience with Fullstack Web development and ERP systems development. I worked on several projects for large companies in the technology sector, having experience in planning, developing and maintaining applications. I have knowledge and experience with C# (.Net), Python (Django, flask), Java (Spring) using them in the development of MVC applications and microservices, implementing unit tests (xUnit and JUnit) and front-end frameworks (Vue.js).
+Fullstack Developer with 6 years of experience, including 2 years focused on artificial intelligence and data analysis. Specialized in robust ERP systems and web solutions. Experienced in software architecture design, feature ideation, and implementation.
+Proficient in a range of technologies including C# (.Net), Python (Django, Flask), and JavaScript (React). Hands-on experience in unit testing and application deployment. Known for excellent teamwork, proactivity, and a quick aptitude for learning new technologies.
 
 Most of the codes you will see here scripts that i use to automate tasks or for academic purposes.
 
-My professional info are on my LinkedIn in the end of this README, feel free to take a look!
+All my professional info are on my LinkedIn in the end of this README, feel free to take a look!
 ```See ya!```
 
 Email: joaohenriquemuniz@gmail.com
